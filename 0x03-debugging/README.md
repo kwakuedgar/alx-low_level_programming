@@ -1,1 +1,1 @@
-0x03. C - Debugging task solutions
+0x03. C - Debugging
